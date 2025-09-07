@@ -1,2 +1,12 @@
-# online-notepad
-A simple and free online notepad for writing, editing, and saving notes anytime, anywhere. Supports dark &amp; light mode, word and character counters, and more. Try it live here: https://online-notepad.io  and experience distraction-free note-taking right in your browser.
+# Online Notepad  
+
+This is a simple project showcasing a free online notepad tool.  
+You can try the live version here 👉 [https://online-notepad.io](https://online-notepad.io)  
+
+## Features  
+- Write and save notes anytime  
+- Dark & light mode  
+- Word and character counter  
+
+## About  
+This project is part of my experiments in building simple, user-friendly online tools.  
